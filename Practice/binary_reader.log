@@ -1,0 +1,204 @@
+2025-12-24 22:34:01,493 - BinaryFileReader - INFO - Starting to read binary file: \data\customers.binary
+2025-12-24 22:34:01,493 - BinaryFileReader - INFO - Record format: <i50s50s100s20s50s3s10s11s
+2025-12-24 22:34:01,494 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-24 22:34:01,495 - BinaryFileReader - INFO - Error handling mode: skip
+2025-12-24 22:34:01,495 - BinaryFileReader - ERROR - File integrity check failed: File does not exist: \data\customers.binary
+2025-12-24 22:34:33,211 - BinaryFileReader - INFO - Starting to read binary file: \data\customers.binary
+2025-12-24 22:34:33,212 - BinaryFileReader - INFO - Record format: <i50s50s100s20s50s3s10s11s
+2025-12-24 22:34:33,212 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-24 22:34:33,216 - BinaryFileReader - INFO - Error handling mode: skip
+2025-12-24 22:34:33,217 - BinaryFileReader - ERROR - File integrity check failed: File does not exist: \data\customers.binary
+2025-12-24 22:37:27,194 - BinaryFileReader - INFO - Starting to read binary file: data\customers.binary
+2025-12-24 22:37:27,195 - BinaryFileReader - INFO - Record format: <i50s50s100s20s50s3s10s11s
+2025-12-24 22:37:27,195 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-24 22:37:27,196 - BinaryFileReader - INFO - Error handling mode: skip
+2025-12-24 22:37:27,196 - BinaryFileReader - WARNING - File size (600000 bytes) is not a multiple of record size (298 bytes). 126 trailing bytes detected. Expected size: 599874 bytes. File may be truncated or corrupted.
+2025-12-24 22:37:27,197 - BinaryFileReader - INFO - File size: 600,000 bytes
+2025-12-24 22:37:27,197 - BinaryFileReader - INFO - Expected records: 2013
+2025-12-24 22:37:27,198 - BinaryFileReader - WARNING - Record 178: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,200 - BinaryFileReader - WARNING - Record 179: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,201 - BinaryFileReader - WARNING - Record 180: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,201 - BinaryFileReader - WARNING - Record 181: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,202 - BinaryFileReader - WARNING - Record 182: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,203 - BinaryFileReader - WARNING - Record 183: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,204 - BinaryFileReader - WARNING - Record 184: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,205 - BinaryFileReader - WARNING - Record 185: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,206 - BinaryFileReader - WARNING - Record 186: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,206 - BinaryFileReader - WARNING - Record 187: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,207 - BinaryFileReader - WARNING - Record 188: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,207 - BinaryFileReader - WARNING - Record 189: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,208 - BinaryFileReader - WARNING - Record 190: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,208 - BinaryFileReader - WARNING - Record 191: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,209 - BinaryFileReader - WARNING - Record 192: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,210 - BinaryFileReader - WARNING - Record 193: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,211 - BinaryFileReader - WARNING - Record 194: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,212 - BinaryFileReader - WARNING - Record 195: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,212 - BinaryFileReader - WARNING - Record 196: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,212 - BinaryFileReader - WARNING - Record 197: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,213 - BinaryFileReader - WARNING - Record 198: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,213 - BinaryFileReader - WARNING - Record 199: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,214 - BinaryFileReader - WARNING - Record 200: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,214 - BinaryFileReader - WARNING - Record 201: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,214 - BinaryFileReader - WARNING - Record 202: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,216 - BinaryFileReader - WARNING - Record 478: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,217 - BinaryFileReader - WARNING - Record 479: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,217 - BinaryFileReader - WARNING - Record 480: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,217 - BinaryFileReader - WARNING - Record 481: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,218 - BinaryFileReader - WARNING - Record 482: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,218 - BinaryFileReader - WARNING - Record 483: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,219 - BinaryFileReader - WARNING - Record 484: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,219 - BinaryFileReader - WARNING - Record 485: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,220 - BinaryFileReader - WARNING - Record 486: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,220 - BinaryFileReader - WARNING - Record 487: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,221 - BinaryFileReader - WARNING - Record 488: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,221 - BinaryFileReader - WARNING - Record 489: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,222 - BinaryFileReader - WARNING - Record 490: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,222 - BinaryFileReader - WARNING - Record 491: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,223 - BinaryFileReader - WARNING - Record 492: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,223 - BinaryFileReader - WARNING - Record 493: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,224 - BinaryFileReader - WARNING - Record 494: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,224 - BinaryFileReader - WARNING - Record 495: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,225 - BinaryFileReader - WARNING - Record 496: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,225 - BinaryFileReader - WARNING - Record 497: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,226 - BinaryFileReader - WARNING - Record 498: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,227 - BinaryFileReader - WARNING - Record 499: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,227 - BinaryFileReader - WARNING - Record 500: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,227 - BinaryFileReader - WARNING - Record 501: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,228 - BinaryFileReader - WARNING - Record 502: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,229 - BinaryFileReader - WARNING - Record 644: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,230 - BinaryFileReader - WARNING - Record 645: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,231 - BinaryFileReader - WARNING - Record 646: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,232 - BinaryFileReader - WARNING - Record 647: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,232 - BinaryFileReader - WARNING - Record 648: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,233 - BinaryFileReader - WARNING - Record 649: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,233 - BinaryFileReader - WARNING - Record 650: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,233 - BinaryFileReader - WARNING - Record 651: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,234 - BinaryFileReader - WARNING - Record 652: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,235 - BinaryFileReader - WARNING - Record 928: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,236 - BinaryFileReader - WARNING - Record 929: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,236 - BinaryFileReader - WARNING - Record 930: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,237 - BinaryFileReader - WARNING - Record 931: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,237 - BinaryFileReader - WARNING - Record 932: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,238 - BinaryFileReader - WARNING - Record 933: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,238 - BinaryFileReader - WARNING - Record 934: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,239 - BinaryFileReader - WARNING - Record 935: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,239 - BinaryFileReader - WARNING - Record 936: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,240 - BinaryFileReader - WARNING - Record 937: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,240 - BinaryFileReader - WARNING - Record 938: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,241 - BinaryFileReader - WARNING - Record 939: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,241 - BinaryFileReader - WARNING - Record 940: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,242 - BinaryFileReader - WARNING - Record 941: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,242 - BinaryFileReader - WARNING - Record 942: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,243 - BinaryFileReader - WARNING - Record 943: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,243 - BinaryFileReader - WARNING - Record 944: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,244 - BinaryFileReader - WARNING - Record 945: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,244 - BinaryFileReader - WARNING - Record 946: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,245 - BinaryFileReader - WARNING - Record 947: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,245 - BinaryFileReader - WARNING - Record 948: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,246 - BinaryFileReader - WARNING - Record 949: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,246 - BinaryFileReader - WARNING - Record 950: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,246 - BinaryFileReader - WARNING - Record 951: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,247 - BinaryFileReader - WARNING - Record 952: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,248 - BinaryFileReader - WARNING - Record 1228: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,249 - BinaryFileReader - WARNING - Record 1229: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,249 - BinaryFileReader - WARNING - Record 1230: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,249 - BinaryFileReader - WARNING - Record 1231: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,250 - BinaryFileReader - WARNING - Record 1232: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,250 - BinaryFileReader - WARNING - Record 1233: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,250 - BinaryFileReader - WARNING - Record 1234: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,251 - BinaryFileReader - WARNING - Record 1235: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,252 - BinaryFileReader - WARNING - Record 1236: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,253 - BinaryFileReader - WARNING - Record 1237: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,253 - BinaryFileReader - WARNING - Record 1238: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,254 - BinaryFileReader - WARNING - Record 1239: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,254 - BinaryFileReader - WARNING - Record 1240: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,255 - BinaryFileReader - WARNING - Record 1241: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,255 - BinaryFileReader - WARNING - Record 1242: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,255 - BinaryFileReader - WARNING - Record 1243: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,256 - BinaryFileReader - WARNING - Record 1244: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,256 - BinaryFileReader - WARNING - Record 1245: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,257 - BinaryFileReader - WARNING - Record 1246: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,257 - BinaryFileReader - WARNING - Record 1247: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,257 - BinaryFileReader - WARNING - Record 1248: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,258 - BinaryFileReader - WARNING - Record 1249: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,258 - BinaryFileReader - WARNING - Record 1250: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,259 - BinaryFileReader - WARNING - Record 1251: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,259 - BinaryFileReader - WARNING - Record 1252: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,260 - BinaryFileReader - WARNING - Record 1528: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,261 - BinaryFileReader - WARNING - Record 1529: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,262 - BinaryFileReader - WARNING - Record 1530: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,262 - BinaryFileReader - WARNING - Record 1531: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,263 - BinaryFileReader - WARNING - Record 1532: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,263 - BinaryFileReader - WARNING - Record 1533: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,263 - BinaryFileReader - WARNING - Record 1534: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,264 - BinaryFileReader - WARNING - Record 1535: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,264 - BinaryFileReader - WARNING - Record 1536: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,265 - BinaryFileReader - WARNING - Record 1537: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,265 - BinaryFileReader - WARNING - Record 1538: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,266 - BinaryFileReader - WARNING - Record 1539: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,266 - BinaryFileReader - WARNING - Record 1540: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,266 - BinaryFileReader - WARNING - Record 1541: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,267 - BinaryFileReader - WARNING - Record 1542: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,267 - BinaryFileReader - WARNING - Record 1543: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,268 - BinaryFileReader - WARNING - Record 1544: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,269 - BinaryFileReader - WARNING - Record 1545: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,270 - BinaryFileReader - WARNING - Record 1678: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,270 - BinaryFileReader - WARNING - Record 1679: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,270 - BinaryFileReader - WARNING - Record 1680: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,271 - BinaryFileReader - WARNING - Record 1681: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,271 - BinaryFileReader - WARNING - Record 1682: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,272 - BinaryFileReader - WARNING - Record 1683: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,272 - BinaryFileReader - WARNING - Record 1684: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,273 - BinaryFileReader - WARNING - Record 1685: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,273 - BinaryFileReader - WARNING - Record 1686: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,274 - BinaryFileReader - WARNING - Record 1687: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,274 - BinaryFileReader - WARNING - Record 1688: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,274 - BinaryFileReader - WARNING - Record 1689: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,275 - BinaryFileReader - WARNING - Record 1690: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,275 - BinaryFileReader - WARNING - Record 1691: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,276 - BinaryFileReader - WARNING - Record 1692: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,276 - BinaryFileReader - WARNING - Record 1693: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,277 - BinaryFileReader - WARNING - Record 1694: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,277 - BinaryFileReader - WARNING - Record 1695: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,278 - BinaryFileReader - WARNING - Record 1696: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,278 - BinaryFileReader - WARNING - Record 1697: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,279 - BinaryFileReader - WARNING - Record 1698: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,279 - BinaryFileReader - WARNING - Record 1699: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,280 - BinaryFileReader - WARNING - Record 1700: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,280 - BinaryFileReader - WARNING - Record 1701: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,280 - BinaryFileReader - WARNING - Record 1702: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,282 - BinaryFileReader - WARNING - Record 1978: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,282 - BinaryFileReader - WARNING - Record 1979: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,283 - BinaryFileReader - WARNING - Record 1980: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,283 - BinaryFileReader - WARNING - Record 1981: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,284 - BinaryFileReader - WARNING - Record 1982: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,284 - BinaryFileReader - WARNING - Record 1983: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,284 - BinaryFileReader - WARNING - Record 1984: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,285 - BinaryFileReader - WARNING - Record 1985: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,285 - BinaryFileReader - WARNING - Record 1986: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,285 - BinaryFileReader - WARNING - Record 1987: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,286 - BinaryFileReader - WARNING - Record 1988: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,286 - BinaryFileReader - WARNING - Record 1989: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,287 - BinaryFileReader - WARNING - Record 1990: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,287 - BinaryFileReader - WARNING - Record 1991: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,287 - BinaryFileReader - WARNING - Record 1992: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,288 - BinaryFileReader - WARNING - Record 1993: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,288 - BinaryFileReader - WARNING - Record 1994: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,288 - BinaryFileReader - WARNING - Record 1995: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,289 - BinaryFileReader - WARNING - Record 1996: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,289 - BinaryFileReader - WARNING - Record 1997: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,289 - BinaryFileReader - WARNING - Record 1998: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,290 - BinaryFileReader - WARNING - Record 1999: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,290 - BinaryFileReader - WARNING - Record 2000: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,291 - BinaryFileReader - WARNING - Record 2001: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,291 - BinaryFileReader - WARNING - Record 2002: Failed to decode with ascii, trying latin-1
+2025-12-24 22:37:27,292 - BinaryFileReader - ERROR - Record 2014 at offset 599874: Incomplete read - got 126 bytes, expected 298
+2025-12-24 22:37:27,292 - BinaryFileReader - INFO - Completed reading 2,014 records
+2025-12-24 22:37:27,293 - BinaryFileReader - INFO - Valid records: 2,013
+2025-12-24 22:37:27,293 - BinaryFileReader - INFO - Invalid records: 1
+2025-12-24 22:37:27,294 - BinaryFileReader - INFO - Errors: 1
+2025-12-25 20:54:41,942 - BinaryFileReader - INFO - Starting to read binary file: data_records.bin
+2025-12-25 20:54:41,947 - BinaryFileReader - INFO - Record format: <id10s
+2025-12-25 20:54:41,947 - BinaryFileReader - INFO - Record size: 22 bytes
+2025-12-25 20:54:41,947 - BinaryFileReader - INFO - Error handling mode: skip
+2025-12-25 20:54:41,947 - BinaryFileReader - ERROR - File integrity check failed: File does not exist: data_records.bin
