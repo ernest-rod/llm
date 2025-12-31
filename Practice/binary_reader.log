@@ -2190,3 +2190,43 @@
 2025-12-29 16:42:41 - BinaryFileReader - INFO - Errors: 0
 2025-12-29 16:42:41 - BinaryFileReader - INFO - Warnings: 0
 2025-12-29 16:42:41 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 19:56:37 - BinaryFileReader - INFO - BinaryFileReader initialized with schema: My Data Structure
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Fields: customer_id, first_name, last_name, email, phone, city, state, zip_code, registration_date
+2025-12-30 19:56:37 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Starting binary file read: data\customers.binary
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Schema: My Data Structure
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Record format: <i50s50s100s20s50s3s10s11s
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Error handling mode: skip
+2025-12-30 19:56:37 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 19:56:37 - BinaryFileReader - INFO - File size: 596,000 bytes
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Expected records: 2,000
+2025-12-30 19:56:37 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Completed reading 2,000 records
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Valid records: 2,000
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Invalid records: 0
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Success rate: 100.00%
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Errors: 0
+2025-12-30 19:56:37 - BinaryFileReader - INFO - Warnings: 0
+2025-12-30 19:56:37 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 20:13:03 - BinaryFileReader - INFO - BinaryFileReader initialized with schema: My Data Structure
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Fields: customer_id, first_name, last_name, email, phone, city, state, zip_code, registration_date
+2025-12-30 20:13:03 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Starting binary file read: data\customers.binary
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Schema: My Data Structure
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Record format: <i50s50s100s20s50s3s10s11s
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Record size: 298 bytes
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Error handling mode: skip
+2025-12-30 20:13:03 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 20:13:03 - BinaryFileReader - INFO - File size: 596,000 bytes
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Expected records: 2,000
+2025-12-30 20:13:03 - BinaryFileReader - INFO - ======================================================================
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Completed reading 2,000 records
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Valid records: 2,000
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Invalid records: 0
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Success rate: 100.00%
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Errors: 0
+2025-12-30 20:13:03 - BinaryFileReader - INFO - Warnings: 0
+2025-12-30 20:13:03 - BinaryFileReader - INFO - ======================================================================
